@@ -2,7 +2,6 @@
 // My easy json parser
 // https://vk.com/proheisenberg
 #include <iostream>
-#include <memory>
 #include <string>
 #include <fstream>
 #include <list>
@@ -10,7 +9,6 @@
 using std::list;
 using std::string;
 using std::ifstream;
-using std::unique_ptr;
 using std::make_unique;
 
 namespace ejp // Easy Json Parser
