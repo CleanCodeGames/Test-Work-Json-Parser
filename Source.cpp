@@ -27,6 +27,6 @@ int main() {
 	ejp::EasyJsonPars pars;
 	pars.Read("test");
 	pars.Print();
-	cout << "Time elapsed" << timer.elapsed() << endl;
+	cout << "Time elapsed " << timer.elapsed() << endl;
 	return 0;
 }
