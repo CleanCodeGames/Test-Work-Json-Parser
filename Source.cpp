@@ -20,6 +20,10 @@ public:
 	double elapsed() const {
 		return chrono::duration_cast<second_t>(clock_t::now() - m_beg).count();
 	}
+
+	~Timer() {
+		cout << "Time elapsed " << elapsed() << endl;
+	}
 };
 
 int main() {
@@ -27,6 +31,5 @@ int main() {
 	ejp::EasyJsonPars pars;
 	pars.Read("test");
 	pars.Print();
-	cout << "Time elapsed " << timer.elapsed() << endl;
 	return 0;
 }

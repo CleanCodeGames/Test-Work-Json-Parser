@@ -1,6 +1,2 @@
-﻿  EasyJsonPars.cpp
-C:\Users\blizz\source\repos\Test Work Json Parser\Test Work Json Parser\EasyJsonPars.cpp(16,26): warning C4566: символ, представленный универсальным именем символа "\u2663", невозможно представить в текущей кодовой странице (1251)
-C:\Users\blizz\source\repos\Test Work Json Parser\Test Work Json Parser\EasyJsonPars.cpp(42,19): warning C4566: символ, представленный универсальным именем символа "\u2663", невозможно представить в текущей кодовой странице (1251)
-  Source.cpp
-  Создание кода...
+﻿  Source.cpp
   Test Work Json Parser.vcxproj -> C:\Users\blizz\source\repos\Test Work Json Parser\Debug\Test Work Json Parser.exe
