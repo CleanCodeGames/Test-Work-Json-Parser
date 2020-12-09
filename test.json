@@ -1,0 +1,9 @@
+{
+  "a": "hello",
+  "b": "world",
+  "c": {
+    "a": "foo",
+    "b": "bar"
+  },
+  "d": "hello, world"
+}
